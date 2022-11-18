@@ -4,6 +4,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 body {
+	background: #0b0d19;
 	margin: 0;
 }
 article,
@@ -1437,7 +1438,6 @@ label {
 	min-height: 100vh;
 }
 .boxed-container {
-	max-width: 1440px;
 	margin: 0 auto;
 	box-shadow: 0 20px 48px rgba(22, 30, 42, 0.16);
 }
