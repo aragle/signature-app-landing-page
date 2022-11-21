@@ -1,4 +1,6 @@
 # signature-auth-web
-![signature](https://user-images.githubusercontent.com/62181222/187184324-f40200f1-69e6-4b88-bda7-c314812c7de9.png)
 
-This is a landing page of signature authentication app
+
+This is a landing page of signature authentication app.
+
+![signature](https://user-images.githubusercontent.com/62181222/203163127-38ded473-3fde-48cf-ae05-cf8de3e77975.PNG)
